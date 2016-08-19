@@ -36,3 +36,5 @@ Abstract:   Probabilistic topic models are important tools for indexing, summari
 The **players** and **best** and **worst** are defined by a unique identifier that looks like TOPICID-CARDINALITY-MODE-IMAGEID-SHORTORLONG, which refers to values of the labels.csv file. 
 
 For example, the best label, **0-5-wordcloud-5-short**, refers to the short label in the labels.csv file for topic 0 with cardinality 5, random image id 5, and the word cloud, which is "cooking fish"
+
+Also, it's important to note that the labels.csv file has extra entries that we did not include in the evaluation. Only the first five labels for each setting were used during the evaluation phase. 
