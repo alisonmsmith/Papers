@@ -17,8 +17,12 @@ Abstract:   Probabilistic topic models are important tools for indexing, summari
   lag behind user-created labels, but our dataset of manually labeled topics
   highlights linguistic patterns (e.g., hypernyms, phrases) that can be used to
   improve automatic topic labeling algorithms.
+  
+## Data Viewer
 
-## Data
+Labels and ratings can be explored by topic here: http://findingtopic.appspot.com/allDescriptions (last successfully accessed 7/30/17)
+
+## Raw Data
 
 * **topics.txt**: ordered list of the 50 topics represented by their 20 topic words
 * **algorithm.txt**: ordered list of the 50 algorithmically generated labels for the topics
