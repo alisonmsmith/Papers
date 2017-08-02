@@ -18,6 +18,10 @@ Abstract:   Probabilistic topic models are important tools for indexing, summari
   highlights linguistic patterns (e.g., hypernyms, phrases) that can be used to
   improve automatic topic labeling algorithms.
   
+## ACL 2017 Slides
+
+Here are the slides presented at ACL 2017 (8/1/2017): https://docs.google.com/presentation/d/17303SNw4urVkkeXPMbO-xbjZtKV1dvpHY6VfM9LLGug/edit?usp=sharing
+  
 ## Data Viewer
 
 Labels and ratings can be explored by topic here: http://findingtopic.appspot.com/allDescriptions (last successfully accessed 7/30/17)
